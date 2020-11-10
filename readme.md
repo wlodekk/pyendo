@@ -27,8 +27,8 @@ Download the Python script, change the folder location of the json files in the 
 
 
 ## Features
-* Determines the timezone on the basis of GPS coordinates
-* Saves the pandas dataframe in the feather format which is much faster to load then a CSV file
+* Determines the timezone of each training on the basis of GPS coordinates.
+* Saves the pandas dataframe in the feather format which is much faster to load then a CSV file.
 
 
 ## Status
