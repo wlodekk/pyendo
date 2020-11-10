@@ -11,7 +11,7 @@
 * [Contact](#contact)
 
 ## General info
-As we all know Endomondo terminating its services by the end of 2020. I created a Python script that imports Endomodo json files (which you can downdload from the Endomondo website), converts it to a Pandas dataframe and saves it to feather file.
+As we all know Endomondo is terminating its services by the end of 2020. I created a Python script that imports Endomodo json files (which you can downdload from the Endomondo website), converts it to a Pandas dataframe and saves it to feather file.
 You can use is it to analyze your training results in Python or R which both support the feather file format.
 
 ## Technologies
