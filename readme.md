@@ -11,7 +11,7 @@
 * [Contact](#contact)
 
 ## General info
-As we all know Endomondo is terminating its services by the end of 2020. I created a Python script that imports Endomodo json files with your training data (which you can downdload from the Endomondo website), converts it to a Pandas dataframe and saves it to feather file.
+As we all know Endomondo is terminating its services by the end of 2020. I created a Python script that imports Endomodo json files with your training data (which you can downdload from the Endomondo website), converts it to a Pandas dataframe and saves it to a feather file.
 You can use is it to analyze your training results in Python or R which both support the feather file format.
 
 ## Technologies
@@ -23,7 +23,7 @@ You can use is it to analyze your training results in Python or R which both sup
 * Timezonefinder- version 4.4.1
 
 ## Setup
-Download the Python script, change the folder location of the json files in the script, set the default timezone for trainings without GPC coordinates, run it and convert your files to feather format file. 
+Download the Python script, change the folder location of the json files in the script, set the default timezone for trainings without GPC coordinates, run it and convert your files to a feather format file. 
 
 
 ## Features
