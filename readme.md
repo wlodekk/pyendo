@@ -38,4 +38,4 @@ Project is: _in progress_
 Project inspired by Endomondo's planned termination of services.
 
 ## Contact
-Created by Włodzimier Kuczyński [wlo.kucz(at)gmail.com](mailto:wlo.kucz@gmail.com)- feel free to contact me!
+Created by Włodzimierz Kuczyński [wlo.kucz(at)gmail.com](mailto:wlo.kucz@gmail.com)- feel free to contact me!
