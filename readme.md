@@ -32,7 +32,7 @@ Download the Python script, change the folder location of the json files in the 
 
 
 ## Status
-Project is _in progress_.
+Project completed.
 
 ## Inspiration
 Project inspired by Endomondo's planned termination of services.
